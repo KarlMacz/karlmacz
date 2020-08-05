@@ -27,6 +27,12 @@ These are all the languages and tools that I am knowledgeable of.
 <img src="https://raw.githubusercontent.com/KarlMacz/karlmacz/master/assets/svg/vuejs-brands.svg" style="margin: 0.25rem; height: 2rem;" title="Vue.js">
 <img src="https://raw.githubusercontent.com/KarlMacz/karlmacz/master/assets/svg/wordpress-brands.svg" style="margin: 0.25rem; height: 2rem;" title="Wordpress">
 
+## Statistics
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KarlMacz&theme=tokyonight&hide=stars,prs&count_private=true&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlMacz&theme=tokyonight)
+
 ## Credits
 
 - All icons (in SVG format) used in this README file was downloaded from [FontAwesome](fontawesome-website).
